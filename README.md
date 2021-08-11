@@ -1,6 +1,6 @@
 <p>eslint config file :</p>
 <p>install plugins ESLint into the VSMarketplace</p>
-<div>
+<pre>
 {
     "liveServer.settings.donotShowInfoMsg": true,
     "tabnine.experimentalAutoImports": true,
@@ -15,7 +15,7 @@
         "source.fixAll": true
     }
 }
-</div>
+</pre>
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
