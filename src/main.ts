@@ -12,6 +12,6 @@ function teste() {
 
 for (let i = 0; i < 1; i++) {
     let test2: any;
-    test2 = "yolo"
+    test2 = 'yolo';
     console.log(i);
 }

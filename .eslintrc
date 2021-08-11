@@ -17,7 +17,7 @@
         "@typescript-eslint/explicit-module-boundary-types": "off",
         "@typescript-eslint/no-unsafe-call": "off",
         "@typescript-eslint/no-unsafe-return": "off",
-        "@typescript-eslint/no-explicit-any": "on", // ANY AU BUCHET
+        "@typescript-eslint/no-explicit-any": "error", // ANY AU BUCHET
         "@typescript-eslint/naming-convention": "off",
         // JS and Typescript
         "no-console": "warn",
