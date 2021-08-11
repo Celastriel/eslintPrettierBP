@@ -12,3 +12,4 @@ _site
 **/*.ejs
 **/*.haml
 **/*.pug
+**/*.json
