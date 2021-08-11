@@ -3,3 +3,12 @@ dist
 public
 _site
 **/*.html
+**/*.md
+**/*.11ty.js
+**/*.liquid
+**/*.njk
+**/*.hbs
+**/*.mustache
+**/*.ejs
+**/*.haml
+**/*.pug
