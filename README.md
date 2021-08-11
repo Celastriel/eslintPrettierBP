@@ -1,6 +1,6 @@
-eslint config file :
-install plugins ESLint into the VSMarketplace
-[
+<p>eslint config file :</p>
+<p>install plugins ESLint into the VSMarketplace</p>
+<div>
 {
     "liveServer.settings.donotShowInfoMsg": true,
     "tabnine.experimentalAutoImports": true,
@@ -10,15 +10,12 @@ install plugins ESLint into the VSMarketplace
     "git.autofetch": true,
     "workbench.iconTheme": "material-icon-theme",
     "eslint.format.enable": true,
-    "eslint.workingDirectories": [
-    
-    ],
-
+    "eslint.workingDirectories": [],
     "editor.codeActionsOnSave": {
         "source.fixAll": true
     }
 }
-]
+</div>
 
 <a href="https://gitmoji.dev">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
